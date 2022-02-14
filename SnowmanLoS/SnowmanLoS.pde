@@ -2,7 +2,7 @@
 Zi Qing Xiong
 2-4
 February 8, 2022
-Due: Thursday, February 10, 2022
+Due: Thursday, February 10, 2022 @ 11:59pm
 */
 
 size(1200, 800); //halfway mark = 600, 400
@@ -15,8 +15,8 @@ ellipse(775, 75, 630, 630);
 stroke(#E3FCF7);
 fill(#E3FCF7);
 ellipse(775, 75, 300, 300);
-stroke(#F3FCF0);
-fill(#F3FCF0);
+stroke(#EBFCEC);
+fill(#EBFCEC);
 ellipse(775, 75, 170, 170);
 stroke(#FFFEE0);
 fill(#FFFEE0);
